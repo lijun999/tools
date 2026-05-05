@@ -1,0 +1,6 @@
+/skills/
+/front/node_modules/
+/front/dist/
+/front/vite-dev.log
+/front/vite-dev.err.log
+*.log
